@@ -1,1 +1,1 @@
-{"seq":22,"ts":1777291820,"frames":[{"id":"c1f0a1e3cb3d7144b0de170b6","seq":4,"status":"closing"}]}
+{"seq":23,"ts":1777292057,"frames":[{"id":"c60e6148cec37b59854ef4a36","seq":1,"dst":"httpbin.org:443","status":"active"}]}
